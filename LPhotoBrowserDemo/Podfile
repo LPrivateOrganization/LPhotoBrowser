@@ -1,1 +1,3 @@
-pod 'LPhotoBrowser', '~> 1.0.0'
+pod 'SVProgressHUD'
+pod 'SDWebImage', '~> 3.7.3'
+

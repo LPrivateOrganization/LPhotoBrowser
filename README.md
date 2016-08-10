@@ -1,2 +1,5 @@
 # LPhotoBrowser
 相册
+
+#LPhotoBrowserDemo 静态文件方式引用LPhotoBrowser
+#LPhotoBrowserDemo_pods 使用pod方式应用LPhotoBrowser

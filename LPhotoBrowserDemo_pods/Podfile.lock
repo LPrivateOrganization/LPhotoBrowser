@@ -1,0 +1,18 @@
+PODS:
+  - LPhotoBrowser (1.0.0):
+    - SDWebImage (~> 3.7.3)
+    - SVProgressHUD
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - LPhotoBrowser (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  LPhotoBrowser: 7fc3c863a5e347cc04ad33104237de615eeb03b6
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+COCOAPODS: 0.39.0
