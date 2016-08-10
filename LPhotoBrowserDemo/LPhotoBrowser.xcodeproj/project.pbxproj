@@ -28,13 +28,6 @@
 		1316DF1E1C2A999400864949 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1316DF131C2A999400864949 /* 6.jpg */; };
 		1316DF1F1C2A999400864949 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1316DF141C2A999400864949 /* 7.jpg */; };
 		1316DF221C2AA02300864949 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1316DF211C2AA02300864949 /* TableViewCell.m */; };
-		13CBC01E1D589B8000CCFD84 /* imageFail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 13CBC0101D589B8000CCFD84 /* imageFail@2x.png */; };
-		13CBC01F1D589B8000CCFD84 /* LLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 13CBC0121D589B8000CCFD84 /* LLoadingView.m */; };
-		13CBC0201D589B8000CCFD84 /* LPhotoBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 13CBC0141D589B8000CCFD84 /* LPhotoBrowser.m */; };
-		13CBC0211D589B8000CCFD84 /* LPhotoBrowserView.m in Sources */ = {isa = PBXBuildFile; fileRef = 13CBC0161D589B8000CCFD84 /* LPhotoBrowserView.m */; };
-		13CBC0221D589B8000CCFD84 /* LPhotoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 13CBC0191D589B8000CCFD84 /* LPhotoModel.m */; };
-		13CBC0231D589B8000CCFD84 /* LPhotoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 13CBC01B1D589B8000CCFD84 /* LPhotoView.m */; };
-		13CBC0241D589B8000CCFD84 /* UIImageView+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 13CBC01D1D589B8000CCFD84 /* UIImageView+Extensions.m */; };
 		413D185BB8EABB1741431D36 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E1C5D7F0AF5E0E9D0E54954 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -65,20 +58,6 @@
 		1316DF141C2A999400864949 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
 		1316DF201C2AA02300864949 /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
 		1316DF211C2AA02300864949 /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
-		13CBC0101D589B8000CCFD84 /* imageFail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "imageFail@2x.png"; sourceTree = "<group>"; };
-		13CBC0111D589B8000CCFD84 /* LLoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLoadingView.h; sourceTree = "<group>"; };
-		13CBC0121D589B8000CCFD84 /* LLoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLoadingView.m; sourceTree = "<group>"; };
-		13CBC0131D589B8000CCFD84 /* LPhotoBrowser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPhotoBrowser.h; sourceTree = "<group>"; };
-		13CBC0141D589B8000CCFD84 /* LPhotoBrowser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPhotoBrowser.m; sourceTree = "<group>"; };
-		13CBC0151D589B8000CCFD84 /* LPhotoBrowserView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPhotoBrowserView.h; sourceTree = "<group>"; };
-		13CBC0161D589B8000CCFD84 /* LPhotoBrowserView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPhotoBrowserView.m; sourceTree = "<group>"; };
-		13CBC0171D589B8000CCFD84 /* LPhotoHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPhotoHeader.h; sourceTree = "<group>"; };
-		13CBC0181D589B8000CCFD84 /* LPhotoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPhotoModel.h; sourceTree = "<group>"; };
-		13CBC0191D589B8000CCFD84 /* LPhotoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPhotoModel.m; sourceTree = "<group>"; };
-		13CBC01A1D589B8000CCFD84 /* LPhotoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPhotoView.h; sourceTree = "<group>"; };
-		13CBC01B1D589B8000CCFD84 /* LPhotoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPhotoView.m; sourceTree = "<group>"; };
-		13CBC01C1D589B8000CCFD84 /* UIImageView+Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+Extensions.h"; sourceTree = "<group>"; };
-		13CBC01D1D589B8000CCFD84 /* UIImageView+Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+Extensions.m"; sourceTree = "<group>"; };
 		6122D15B3A0BE2B0E14F9083 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		7E1C5D7F0AF5E0E9D0E54954 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9591D771DCC1FD379B038E6 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -107,7 +86,6 @@
 		1315A07A1D589769000C03DD /* thumbImages */ = {
 			isa = PBXGroup;
 			children = (
-				1315A07B1D589769000C03DD /* cache */,
 				1315A07C1D589769000C03DD /* thumnb_0.jpg */,
 				1315A07D1D589769000C03DD /* thumnb_1.jpg */,
 				1315A07E1D589769000C03DD /* thumnb_2.jpg */,
@@ -117,13 +95,6 @@
 				1315A0821D589769000C03DD /* thumnb_6.jpg */,
 			);
 			path = thumbImages;
-			sourceTree = "<group>";
-		};
-		1315A07B1D589769000C03DD /* cache */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = cache;
 			sourceTree = "<group>";
 		};
 		1316DEDE1C2A997600864949 = {
@@ -147,7 +118,6 @@
 		1316DEE91C2A997700864949 /* LPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
-				13CBC00E1D589B8000CCFD84 /* LPhotoBrowser */,
 				1315A07A1D589769000C03DD /* thumbImages */,
 				1316DF0D1C2A999400864949 /* SoureImage */,
 				1316DEED1C2A997700864949 /* AppDelegate.h */,
@@ -185,36 +155,6 @@
 				1316DF141C2A999400864949 /* 7.jpg */,
 			);
 			path = SoureImage;
-			sourceTree = "<group>";
-		};
-		13CBC00E1D589B8000CCFD84 /* LPhotoBrowser */ = {
-			isa = PBXGroup;
-			children = (
-				13CBC00F1D589B8000CCFD84 /* images */,
-				13CBC0111D589B8000CCFD84 /* LLoadingView.h */,
-				13CBC0121D589B8000CCFD84 /* LLoadingView.m */,
-				13CBC0131D589B8000CCFD84 /* LPhotoBrowser.h */,
-				13CBC0141D589B8000CCFD84 /* LPhotoBrowser.m */,
-				13CBC0151D589B8000CCFD84 /* LPhotoBrowserView.h */,
-				13CBC0161D589B8000CCFD84 /* LPhotoBrowserView.m */,
-				13CBC0171D589B8000CCFD84 /* LPhotoHeader.h */,
-				13CBC0181D589B8000CCFD84 /* LPhotoModel.h */,
-				13CBC0191D589B8000CCFD84 /* LPhotoModel.m */,
-				13CBC01A1D589B8000CCFD84 /* LPhotoView.h */,
-				13CBC01B1D589B8000CCFD84 /* LPhotoView.m */,
-				13CBC01C1D589B8000CCFD84 /* UIImageView+Extensions.h */,
-				13CBC01D1D589B8000CCFD84 /* UIImageView+Extensions.m */,
-			);
-			name = LPhotoBrowser;
-			path = ../../LPhotoBrowser;
-			sourceTree = "<group>";
-		};
-		13CBC00F1D589B8000CCFD84 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				13CBC0101D589B8000CCFD84 /* imageFail@2x.png */,
-			);
-			path = images;
 			sourceTree = "<group>";
 		};
 		1EB4FA622D360EA4A6C83588 /* Pods */ = {
@@ -292,7 +232,6 @@
 				1316DEFA1C2A997700864949 /* LaunchScreen.storyboard in Resources */,
 				1315A0851D589769000C03DD /* thumnb_2.jpg in Resources */,
 				1316DF1D1C2A999400864949 /* 5.jpg in Resources */,
-				13CBC01E1D589B8000CCFD84 /* imageFail@2x.png in Resources */,
 				1316DF1C1C2A999400864949 /* 4.jpg in Resources */,
 				1316DF191C2A999400864949 /* 1.jpg in Resources */,
 				1316DF1A1C2A999400864949 /* 2.jpg in Resources */,
@@ -362,16 +301,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13CBC0201D589B8000CCFD84 /* LPhotoBrowser.m in Sources */,
-				13CBC0211D589B8000CCFD84 /* LPhotoBrowserView.m in Sources */,
 				1316DEF21C2A997700864949 /* ViewController.m in Sources */,
 				1316DEEF1C2A997700864949 /* AppDelegate.m in Sources */,
 				1316DF221C2AA02300864949 /* TableViewCell.m in Sources */,
 				1316DEEC1C2A997700864949 /* main.m in Sources */,
-				13CBC0241D589B8000CCFD84 /* UIImageView+Extensions.m in Sources */,
-				13CBC0231D589B8000CCFD84 /* LPhotoView.m in Sources */,
-				13CBC01F1D589B8000CCFD84 /* LLoadingView.m in Sources */,
-				13CBC0221D589B8000CCFD84 /* LPhotoModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
