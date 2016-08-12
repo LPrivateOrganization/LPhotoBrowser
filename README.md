@@ -1,6 +1,8 @@
 ﻿# LPhotoBrowser
 ---
 LPhotoBrowser主要用来多张图片浏览，支持本地、网络图片。点击小图浏览大图有过度动画，提高操作体验。
+
+![LPhotoBrowser](./LPhotoBrowser.gif)
 #介绍
 **一、使用[CocoaPods](http://cocoapods.org)**
 
