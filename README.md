@@ -32,6 +32,15 @@ pod 'LPhotoBrowser', '~> 1.0.0'
 **使用**
 
 ```objc
+/**
+ *  调用图片浏览器
+ *
+ *  @param viewController  目标viewController
+ *  @param initIndex       初始显示index
+ *  @param photoModelBlock LPhotoModel的数组
+ */
++ (void)showWithViewController:(UIViewController *)viewController initIndex:(NSUInteger)initIndex photoModelBlock:(NSArray *(^)())photoModelBlock;
+
 @WeakObj(self);
 [LPhotoBrowser showWithViewController:`目标viewController` initIndex:`初始页数` photoModelBlock:^NSArray *{
         NSMutableArray *temp = [NSMutableArray array];
